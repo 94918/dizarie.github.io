@@ -1,0 +1,94 @@
+*{
+
+padding:0px;
+margin:0px;
+box-sizing:border-box;}
+
+
+
+p{color:#721b65;
+		font-size:20px;
+		font-family:'Pangolin', cursive; 
+		text-align:center ;
+		margin:30px;
+	 	}
+	 	div
+	 	{color:#721b65 ;
+	 		font-size:25px;
+	 		font-family: 'Lobster', cursive;
+	 		text-align:right;
+	 		background-color:silver;
+	 		padding:5px;
+	 		box-shadow: 0 0 10px 1px rgba(0,0,0,0.2);
+
+	 	}
+
+	 	span 
+	 	{color:#721b65;
+	 		font-size:50px;
+	 		font-family:'Ruslan Display', cursive;
+	 		text-align:center;
+	 		background-color:yellow;}
+	 		a{
+	 			font-size:25px;
+	 			font-family:'Merriweather', serif;
+	 			text-decoration: none; font-weight: normal;
+ color:green;
+ background-color:black;
+font-family:'Ruslan Display', cursive;
+margin:20px 0 ;
+display:inline-block;
+border-bottom:1px solid transparent;
+transition: 0 2s ease-in        ;
+
+
+	 		}
+
+a:hover {border-bottom-color:green;}
+
+	 		h2
+	{font-family: 'Comfortaa', cursive;
+
+text-decoration: none; font-weight: normal;
+ color:red;
+ background-color:black;
+font-family:'Ruslan Display', cursive;
+
+
+
+}
+
+
+	div{
+		width: 70%;
+		margin:auto;
+
+
+		font-size:20px;
+		font-family: 'Pacifico', cursive;
+		color:#721b65;
+		background-color:#b80d57;
+		
+	}
+
+	@font-face{
+		font-family:Hubbub SSi;
+		src: url('fonts/18407.tff');
+		font-weight:normal;
+		font-style:normal;}
+
+		span{
+
+			font-family: 'Hubbub SSi';}
+
+			img{max-width:50%;
+
+				height: auto;
+				display:block;
+
+
+
+			}
+
+
+
